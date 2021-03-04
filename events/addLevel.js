@@ -38,7 +38,6 @@ exports.execute = async (message) => {
             };
         });
     };
-
 };
 
 exports.conf = {
