@@ -1,0 +1,19 @@
+{
+  "name": "stark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stark.js",
+  "scripts": {
+    "start": "node stark.js"
+  },
+  "author": "Stark",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.2",
+    "mongoose": "^5.11.9"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
